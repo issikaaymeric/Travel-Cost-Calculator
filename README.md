@@ -6,7 +6,7 @@ based on the selected car model, fuel type, and distance.
 ## Features
 - Select from 700+ car models
 - Choose from 55+ Ivorian cities
-- Calculates total fuel cost in FCFA
+- Calculates total fuel cost in FCFA (XOF)
 - Scrollable result history
 - Clear & Exit buttons
 
