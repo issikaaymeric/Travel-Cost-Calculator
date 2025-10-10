@@ -1,7 +1,7 @@
 # Travel Cost Calculator
 
-A Python Tkinter app that calculates the cost of traveling between Ivorian cities 
-based on the selected car model, fuel type, and distance.
+A Python CustomTkinter app that calculates the cost of traveling between Ivorian cities
+based on the selected car model, fuel type, and distance from Abidjan.
 
 ## Features
 - Select from 700+ car models
